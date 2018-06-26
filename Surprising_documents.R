@@ -79,11 +79,6 @@ ma<-cosine(m)
 ma<-as.matrix(ma)
 Title Extraction Using Python.
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 4 08:34:10 2017
-@author: prapul
-"""
-
 import os
 path = os.getcwd()
 path = path + "\\test"
